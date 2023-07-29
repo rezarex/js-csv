@@ -14,4 +14,7 @@ for(var i=1; i<arr.length;i++){
     jsonObj.push(object)
 }
 
+console.log("<=============================================>");
 console.log(JSON.stringify(jsonObj));
+console.log("<=============================================>");
+console.log(jsonObj);
