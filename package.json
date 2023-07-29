@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/rezarex/js-csv#readme",
   "dependencies": {
+    "csv": "^6.3.1",
     "fs": "^0.0.1-security",
     "nodemon": "^3.0.1"
   }
