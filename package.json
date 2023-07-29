@@ -1,0 +1,24 @@
+{
+  "name": "csvparse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jsparser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rezarex/js-csv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rezarex/js-csv/issues"
+  },
+  "homepage": "https://github.com/rezarex/js-csv#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "nodemon": "^3.0.1"
+  }
+}
